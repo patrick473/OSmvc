@@ -30,6 +30,8 @@ in the config folder you need to change these variables to what is needed for yo
 - url root
 - site name
 
+also you need to change the .htaccess file in the public folder.
+
 ### Creating a controller
 
 additional controllers need to go in the controllers folder in app.
